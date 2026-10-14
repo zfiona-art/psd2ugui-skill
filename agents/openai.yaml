@@ -1,0 +1,4 @@
+interface:
+  display_name: "PSD UGUI 工作流"
+  short_description: "自带独立导出工具，支持新 Unity 项目的 PSD 到 UGUI 全流程接入"
+  default_prompt: "使用 $psd-ugui-workflow 在当前 Unity 项目接入独立导出工具，并执行 PSD 到 UGUI 的导出和验证流程。"
